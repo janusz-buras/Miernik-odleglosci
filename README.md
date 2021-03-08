@@ -1,2 +1,2 @@
 # Miernik-odleglosci
-![](Miernik odległości prezentacja.jpg)
+![](Miernik odległosci prezentacja.jpg)
